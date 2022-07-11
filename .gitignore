@@ -1,0 +1,8 @@
+# Listado de Archivos y Carpetas a ignorar
+
+# - - - - - ARCHIVOS - - - - - - - 
+extensions.json
+
+# - - - - - CARPETAS - - - - - - - 
+test
+.vscode
